@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **educaversan.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eduardo-caversan-da-silva-rocha-39a210254/](https://www.linkedin.com/in/eduardo-caversan-da-silva-rocha-39a210254/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/eduardo-caversan-da-silva-rocha-39a210254/](https://www.linkedin.com/in/eduardo-caversan-da-silva-rocha-39a210254)](https://www.linkedin.com/in/eduardo-caversan-da-silva-rocha-39a210254/)
 
 - ⚡ Fun fact **I love go to the gym 💪**
 
