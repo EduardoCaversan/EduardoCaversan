@@ -63,7 +63,7 @@ Beyond development, I play a key role in **technical decision-making, code revie
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,php,azure,aws,mysql,mongodb,git,terraform,java,react,gitlab" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,php,azure,aws,mysql,mongodb,git,terraform,java,react,gitlab,python,golang" />
 </p>
 
 ---
