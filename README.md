@@ -50,9 +50,6 @@ Beyond development, I play a key role in **technical decision-making, code revie
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eduardocaversan&theme=radical&hide_border=true" />
-  <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardocaversan&layout=compact&theme=radical&hide_border=true" 
-/>
 </p>
 
 ## 📈 Contribution Graph
@@ -66,7 +63,7 @@ Beyond development, I play a key role in **technical decision-making, code revie
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,php,azure,aws,mysql,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,php,azure,aws,mysql,mongodb,git,terraform,java,react,datadog,kibana,gitlab,jira" />
 </p>
 
 ---
