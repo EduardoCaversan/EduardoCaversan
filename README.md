@@ -45,18 +45,20 @@ Beyond development, I play a key role in **technical decision-making, code revie
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=eduardocaversan&theme=radical&hide_border=true" />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=eduardocaversan&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    alt="GitHub Stats"
-  />
-  <br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocaversan&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages"
-  />
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eduardocaversan&layout=compact&theme=radical&hide_border=true" 
+/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardocaversan&theme=react-dark&hide_border=true" />
 </p>
 
 ---
