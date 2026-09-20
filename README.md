@@ -58,6 +58,8 @@ Beyond development, I play a key role in **technical decision-making, code revie
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardocaversan&theme=react-dark&hide_border=true" />
 </p>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EduardoCaversan&layout=donut-vertical&langs_count=10&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=EduardoCaversan&layout=donut-vertical&langs_count=10&theme=blue_navy)
+
 ---
 
 ## 🛠️ Tech Stack
