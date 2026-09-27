@@ -31,32 +31,75 @@ backend systems · APIs · concurrency · cloud infrastructure · reliability
 
 ## Engineering Arsenal
 
-<p align="center">
-  <strong>Backend</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="44" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="44" alt="C Sharp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="44" alt="Go" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>Data &amp; Real-time</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="44" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="44" alt="Firebase" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>Platform &amp; Delivery</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="44" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="44" alt="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" height="44" alt="DigitalOcean" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="44" alt="GitHub Actions" />
-  &nbsp;&nbsp;&nbsp;
-  <strong>Frontend, when it serves the system</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="44" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="44" alt="React" />
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>.NET 8 · Entity Framework Core · Express · Fiber · PostgreSQL · MongoDB · Firestore · Docker Compose · Terraform · OpenAPI · Playwright</sub>
-</p>
+<strong>BACKEND ENGINEERING</strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="42" alt="C#" title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="42" alt=".NET / .NET Core" title=".NET / .NET Core" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="42" alt="PHP" title="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="42" alt="Java" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="42" alt="Laravel" title="Laravel" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="42" alt="Express.js" title="Express.js" />
+
+<br/><sub>C# · .NET / .NET Core · Node.js · PHP · Java · JavaScript · TypeScript</sub>
+
+<br/><sub>ASP.NET Core · REST APIs · Entity Framework Core · Dapper · Laravel · Express.js</sub>
+
+<br/><br/>
+<strong>DATA LAYER &amp; CACHING</strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="42" alt="SQL Server" title="SQL Server" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="42" alt="MariaDB" title="MariaDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="42" alt="Redis" title="Redis" />
+
+<br/><sub>SQL Server · MySQL · MariaDB · MongoDB · Redis <em>(cache and data infrastructure)</em></sub>
+
+<br/><br/>
+<strong>CLOUD, INFRASTRUCTURE &amp; DELIVERY</strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="42" alt="Microsoft Azure" title="Microsoft Azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="Amazon Web Services" title="Amazon Web Services" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="42" alt="Terraform" title="Terraform" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="42" alt="GitHub Actions" title="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="42" alt="Azure DevOps" title="Azure DevOps" />
+
+<br/><sub>Microsoft Azure · AWS · Docker · Docker Compose · Terraform · Git · GitHub · GitHub Actions · Azure DevOps</sub>
+
+<br/><sub>Azure App Service · Azure Container Registry (ACR) · production cloud environments</sub>
+
+<br/><br/>
+<strong>MESSAGING, DISTRIBUTED SYSTEMS &amp; RELIABILITY</strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="42" alt="Azure Service Bus" title="Azure Service Bus" />
+
+<br/><sub>Azure Service Bus · message queues · event-driven architectures · distributed systems · caching · retry and resilience patterns</sub>
+
+<br/><br/>
+<strong>OBSERVABILITY &amp; PRODUCTION</strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height="42" alt="Datadog" title="Datadog" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="42" alt="Elastic / Elastic APM" title="Elastic / Elastic APM" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="42" alt="Kibana" title="Kibana" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS CloudWatch" title="AWS CloudWatch" />
+
+<br/><sub>Datadog · Elastic / Elastic APM · Kibana · AWS CloudWatch · Serilog</sub>
+
+<br/><br/>
+<strong><sub>WEB EXPERIENCE</sub></strong><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="36" alt="Angular" title="Angular" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="36" alt="React" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="36" alt="Vite" title="Vite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="36" alt="HTML" title="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="36" alt="CSS" title="CSS" />
+
+<br/><sub>Angular · React · Next.js · Vite · HTML · CSS</sub>
+
+</div>
 
 ## Live Engineering Dashboard
 
